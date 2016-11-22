@@ -27,7 +27,7 @@ github_username: Matmatah
 markdown: kramdown
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-theme: minima
+#theme: minima
 gems:
   - jekyll-feed
 exclude:
